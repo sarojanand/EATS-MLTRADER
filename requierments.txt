@@ -1,0 +1,14 @@
+alpaca_trade_api
+lumibot
+numpy
+os
+sys
+colorama
+logging
+datetime
+matplotlib
+dotenv
+flask
+yahooquery
+pprint
+multiprocessing
